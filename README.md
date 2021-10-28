@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enoch W
 - 👀 I’m interested in Math, Music and Coding
 - 🌱 I’m currently learning L3Math
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any HTML game
 - 📫 Contact me at minecraftmath4096@gmail.com
 
 <!---
