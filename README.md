@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Enoch W
 - 👀 I’m interested in Math, Music and Coding
-- 🌱 I’m currently learning Year 12 Stats
+- 🌱 I’m currently learning Scholarship calculus
 - 📫 Contact me at minecraftmath4096@gmail.com
+- Play my games at mm4096.github.io/BossFights
 
 <!---
 MM4096/MM4096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
