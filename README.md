@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Enoch W
-- 👀 I’m interested in Math, Music and Coding
-- 🌱 I’m currently learning Scholarship calculus
-- Play my games at mm4096.github.io/BossFights
+Honestly, I don't even know how I'm still alive
 
 <!---
 MM4096/MM4096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
