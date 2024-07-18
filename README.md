@@ -1,4 +1,4 @@
-Honestly, I don't even know how I'm still alive
+Developing software since 2021
 
 <!---
 MM4096/MM4096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
