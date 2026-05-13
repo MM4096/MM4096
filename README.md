@@ -1,6 +1,7 @@
 Developing software since 2021
 
 Check out [`Simplified Proxies`](https://simplified-proxies.mm4096.com), a tool to print black-and-white proxies for Magic: The Gathering!
+
 Also have a look at [`MIDI-Controller`](https://github.com/MM4096/MIDI-Controller), a free, Linux application for creating and performing patch lists on the Korg Kross 2!
 
 <!---
